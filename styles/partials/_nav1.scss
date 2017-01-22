@@ -1,0 +1,18 @@
+
+.nav1 {
+  background: #FFA85B;
+  text-align: center;
+  li {
+    display: inline;
+  }
+  li:hover {
+    background: rgb(224,113,13);
+  }
+  li:active {
+    background: rgb(31,22,16);
+  }
+  a {
+    color: rgb(255,231,208);
+    text-decoration: none;
+  }
+}
